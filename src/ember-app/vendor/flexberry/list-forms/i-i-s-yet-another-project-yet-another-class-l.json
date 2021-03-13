@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-yet-another-project-yet-another-class-e",
+  "editForm": "i-i-s-yet-another-project-yet-another-class-e",
+  "external": false,
+  "caption": "Yet another class",
+  "name": "IISYetAnotherProjectYetAnotherClassL",
+  "className": "YetAnotherClassL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-yet-another-project-yet-another-class",
+      "modelProjection": "YetAnotherClassL"
+    }
+  ]
+}
